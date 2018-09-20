@@ -2,14 +2,14 @@
 A mahjong game site
 这是一个存放麻将素材的地方
 
-#替换牌桌
+# 替换牌桌
 要替换牌桌，需要替换以下地址：
 http://www.majsoul.com/0/v**/scene/Assets/Resource/table/Table_Dif.png
 
 紫金牌桌：
 https://raw.githubusercontent.com/myth0456/mahjong/Table/gold.png
 
-#替换牌面
+# 替换牌面
 要替换牌面，需要依次替换以下地址：
 
 http://www.majsoul.com/0/v**/scene/Assets/Resource/effect/res_g1/mjui.png （直观视角）
