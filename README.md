@@ -4,10 +4,28 @@ A mahjong game site
 
 # 替换牌桌
 要替换牌桌，需要替换以下地址：
+
 http://www.majsoul.com/0/v**/scene/Assets/Resource/table/Table_Dif.png
 
 紫金牌桌：
+
 https://raw.githubusercontent.com/myth0456/mahjong/Table/gold.png
+
+蓝钻牌桌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/diamond.png
+
+基本绿牌桌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/green.png
+
+鹫巢绿牌桌（试制，使用时建议将计分器透明化）：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/washizu.png
+
+基本紫牌桌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/purple.png
 
 # 替换牌面
 要替换牌面，需要依次替换以下地址：
