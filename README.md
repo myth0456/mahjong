@@ -82,6 +82,12 @@ https://raw.githubusercontent.com/myth0456/mahjong/BanruoY/banruoY.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/BanruoY/*.png
 
+鹫巢黑背牌（观战时有奇效）：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Washizu/washizu.png
+
+https://raw.githubusercontent.com/myth0456/mahjong/Washizu/*.png
+
 Coming Soon....
 
 # 替换背景音乐
