@@ -76,6 +76,12 @@ https://raw.githubusercontent.com/myth0456/mahjong/BanruoB/banruo.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/BanruoB/*.png
 
+般若黄背牌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/BanruoY/banruoY.png
+
+https://raw.githubusercontent.com/myth0456/mahjong/BanruoY/*.png
+
 Coming Soon....
 
 # 替换背景音乐
