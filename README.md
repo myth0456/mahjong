@@ -76,6 +76,12 @@ https://raw.githubusercontent.com/myth0456/mahjong/BanruoB/banruo.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/BanruoB/*.png
 
+鹫巢黑背牌（观战时有奇效，建议配合鹫巢绿牌桌使用）：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Washizu/washizu.png
+
+https://raw.githubusercontent.com/myth0456/mahjong/Washizu/*.png
+
 Coming Soon....
 
 # 替换背景音乐
