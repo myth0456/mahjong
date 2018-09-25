@@ -76,6 +76,12 @@ https://raw.githubusercontent.com/myth0456/mahjong/BanruoB/banruo.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/BanruoB/*.png
 
+般若黄背牌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/BanruoY/banruoY.png
+
+https://raw.githubusercontent.com/myth0456/mahjong/BanruoY/*.png
+
 鹫巢黑背牌（观战时有奇效，建议配合鹫巢绿牌桌使用）：
 
 https://raw.githubusercontent.com/myth0456/mahjong/Washizu/washizu.png
