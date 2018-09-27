@@ -52,6 +52,12 @@ https://raw.githubusercontent.com/myth0456/mahjong/Blue/blue.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/Blue/*.png
 
+紫背牌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Purple/purple.png
+
+https://raw.githubusercontent.com/myth0456/mahjong/Purple/*.png
+
 竹背普通牌：
 
 https://raw.githubusercontent.com/myth0456/mahjong/banbooJP/banboo.png
