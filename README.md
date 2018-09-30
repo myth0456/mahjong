@@ -198,3 +198,11 @@ https://raw.githubusercontent.com/myth0456/mahjong/Music/shanghai.wav （上海�
 https://raw.githubusercontent.com/myth0456/mahjong/Music/beijing.wav （北京场，气势恢宏）
 
 https://raw.githubusercontent.com/myth0456/mahjong/Music/lobbySP.wav （主界面）
+
+波克城市麻将音乐集合
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct1.mp3 （国标1）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct2.mp3 （国标2）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct3.mp3 （国标3）
