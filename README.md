@@ -19,6 +19,10 @@ https://raw.githubusercontent.com/myth0456/mahjong/Table/washizu.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/Table/purple.png
 
+墨银牌桌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/sliver.png
+
 紫金牌桌：
 
 https://raw.githubusercontent.com/myth0456/mahjong/Table/gold.png
@@ -43,6 +47,12 @@ http://www.majsoul.com/0/**/scene/Assets/Resource/mjpai/3d/*.png (3D视角)
 https://raw.githubusercontent.com/myth0456/mahjong/Gold/gold.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/Gold/*.png
+
+普通银牌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Sliver/silver.png
+
+https://raw.githubusercontent.com/myth0456/mahjong/Sliver/*.png
 
 大红背牌：
 
