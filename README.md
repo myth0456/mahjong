@@ -191,10 +191,10 @@ https://raw.githubusercontent.com/myth0456/mahjong/Music/normal.wav （普通场
 
 https://raw.githubusercontent.com/myth0456/mahjong/Music/taipei.wav （台北场）
 
-https://raw.githubusercontent.com/myth0456/mahjong/Music/xianggang.wav （香港场）
+https://raw.githubusercontent.com/myth0456/mahjong/Music/xianggang.wav （香港场，有不和谐的音效，慎用）
 
 https://raw.githubusercontent.com/myth0456/mahjong/Music/shanghai.wav （上海场）
 
-https://raw.githubusercontent.com/myth0456/mahjong/Music/beijing.wav （北京场）
+https://raw.githubusercontent.com/myth0456/mahjong/Music/beijing.wav （北京场，气势恢宏）
 
 https://raw.githubusercontent.com/myth0456/mahjong/Music/lobbySP.wav （主界面）
