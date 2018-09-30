@@ -184,3 +184,17 @@ https://raw.githubusercontent.com/myth0456/mahjong/Music/bgm_game23.mp3 （南�
 https://raw.githubusercontent.com/myth0456/mahjong/Music/bgm_game24.mp3 （最终局）
 
 https://raw.githubusercontent.com/myth0456/mahjong/Music/bgm_robby04.mp3 （真·雀龙门主界面）
+
+明星三缺一2002音乐整合
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/normal.wav （普通场）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/taipei.wav （台北场）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/xianggang.wav （香港场）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/shanghai.wav （上海场）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/beijing.wav （北京场）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/lobbySP.wav （主界面）
