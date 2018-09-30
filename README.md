@@ -206,3 +206,9 @@ https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct1.mp3 （国标1）
 https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct2.mp3 （国标2）
 
 https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct3.mp3 （国标3）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct4.mp3 （哈尔滨1）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct5.mp3 （哈尔滨2）
+
+https://raw.githubusercontent.com/myth0456/mahjong/Music/pkct6.mp3 （哈尔滨3）
