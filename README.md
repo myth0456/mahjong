@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/myth0456/mahjong/banbooJP/banboo.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/banbooJP/*.png
 
-竹背国际牌：
+竹背英文牌：
 
 https://raw.githubusercontent.com/myth0456/mahjong/Banboo/banboo_un.png
 
