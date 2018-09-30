@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/myth0456/mahjong/Table/purple.png
 
 墨银牌桌：
 
-https://raw.githubusercontent.com/myth0456/mahjong/Table/sliver.png
+https://raw.githubusercontent.com/myth0456/mahjong/Table/silver.png
 
 紫金牌桌：
 
