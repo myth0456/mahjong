@@ -7,14 +7,6 @@ A mahjong game site
 
 http://www.majsoul.com/0/v**/scene/Assets/Resource/table/Table_Dif.png
 
-紫金牌桌：
-
-https://raw.githubusercontent.com/myth0456/mahjong/Table/gold.png
-
-蓝钻牌桌：
-
-https://raw.githubusercontent.com/myth0456/mahjong/Table/diamond.png
-
 基本绿牌桌：
 
 https://raw.githubusercontent.com/myth0456/mahjong/Table/green.png
@@ -26,6 +18,18 @@ https://raw.githubusercontent.com/myth0456/mahjong/Table/washizu.png
 基本紫牌桌：
 
 https://raw.githubusercontent.com/myth0456/mahjong/Table/purple.png
+
+紫金牌桌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/gold.png
+
+蓝钻牌桌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/diamond.png
+
+雀魂定制版牌桌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/jyanntamashi.png
 
 # 替换牌面
 要替换牌面，需要依次替换以下地址：
@@ -57,6 +61,12 @@ https://raw.githubusercontent.com/myth0456/mahjong/Blue/*.png
 https://raw.githubusercontent.com/myth0456/mahjong/Purple/purple.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/Purple/*.png
+
+黑背牌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Black/black.png
+
+https://raw.githubusercontent.com/myth0456/mahjong/Black/*.png
 
 竹背普通牌：
 
