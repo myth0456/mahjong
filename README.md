@@ -38,9 +38,9 @@ https://raw.githubusercontent.com/myth0456/mahjong/Table/jyanntamashi.png
 # 替换牌面
 要替换牌面，需要依次替换以下地址：
 
-http://www.majsoul.com/0/v**/scene/Assets/Resource/effect/res_g1/mjui.png （直观视角）
+http://www.majsoul.com/0/v**/scene/Assets/Resource/mjpai/mjp_default/hand.png （手牌视角）
 
-http://www.majsoul.com/0/**/scene/Assets/Resource/mjpai/3d/*.png (3D视角)
+http://www.majsoul.com/0/v**/scene/Assets/Resource/mjpai/mjp_default/*.png  (3D视角)
 
 普通金牌：
 
