@@ -5,7 +5,7 @@ A mahjong game site
 # 替换牌桌
 要替换牌桌，需要替换以下地址：
 
-http://www.majsoul.com/0/v**/scene/Assets/Resource/table/Table_Dif.png
+http://www.majsoul.com/0/v**/scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg
 
 基本绿牌桌：
 
