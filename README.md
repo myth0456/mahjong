@@ -27,9 +27,9 @@ https://raw.githubusercontent.com/myth0456/mahjong/Table/silver.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/Table/gold.png
 
-蓝钻牌桌：
+青玉牌桌：
 
-https://raw.githubusercontent.com/myth0456/mahjong/Table/diamond.png
+https://raw.githubusercontent.com/myth0456/mahjong/Table/jade.png
 
 雀魂定制版牌桌：
 
