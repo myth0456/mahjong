@@ -35,6 +35,10 @@ https://raw.githubusercontent.com/myth0456/mahjong/Table/jade.png
 
 https://raw.githubusercontent.com/myth0456/mahjong/Table/jyanntamashi.png
 
+流星黑牌桌：
+
+https://raw.githubusercontent.com/myth0456/mahjong/Table/star.png
+
 # 替换牌面
 要替换牌面，需要依次替换以下地址：
 
